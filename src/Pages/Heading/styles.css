@@ -1,0 +1,15 @@
+.heading-container {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 25px 360px 0px;
+}
+
+.heading-container .heading-container__left {
+    display: flex;
+    align-items: center;
+}
+
+.heading-container .heading-container__left > :not(:first-child) {
+    margin-left: 80px;
+}

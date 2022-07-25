@@ -1,0 +1,20 @@
+.registration-container {
+    display: flex;
+    align-items: center;
+    background-color: #EFF8FF;
+    padding: 80px 360px;
+}
+
+.registration-container .registration-container__text {
+    display: flex;
+    flex-direction: column;
+    padding-right: 150px;
+}
+
+.registration-container .registration-container__text > :not(:first-child) {
+    margin-top: 55px;
+    border: none;
+    max-width: 195px;
+    box-shadow: 1px 3px 4px rgba(19, 125, 224, 0.5);
+}
+
