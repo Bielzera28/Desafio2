@@ -1,0 +1,19 @@
+.plans-container {
+    padding: 50px 360px 120px;
+}
+
+.plans-container .plans-container__content {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    text-align: center;
+    margin-bottom: 100px;
+}
+
+.plans-container .plans-container__content > :not(:first-child) {
+    margin-top: 12px;
+}
+
+
+
+

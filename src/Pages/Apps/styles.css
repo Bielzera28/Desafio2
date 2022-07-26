@@ -1,0 +1,24 @@
+.apps-container {
+    display: flex;   
+    align-items: center;
+    background-color: #EFF8FF;
+    padding: 45px 360px 40px;
+}
+
+.apps-container .apps-container__content {
+    margin-right: 135px;
+}
+
+.apps-container .apps-container__content > :not(:first-child){
+    padding-top: 25px;
+}
+
+.apps-container__content .apps-container__icon {
+    display: flex;
+    align-items: center;
+    margin-top: 10px;
+}
+
+.apps-container__content .apps-container__icon > :not(:first-child) {
+    margin-left: 20px;
+}

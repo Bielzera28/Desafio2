@@ -10,12 +10,8 @@ function Registration() {
       <div className="registration-container__text">
         <div>
           <Text fontSize={48} fontWeight={700} color="#293145">
-            Rachi,
-          </Text>
-          <Text fontSize={48} fontWeight={700} color="#293145">
-            é tudo que você
-          </Text>
-          <Text fontSize={48} fontWeight={700} color="#293145">
+            Rachi,<br/>
+            é tudo que você <br/>
             precisa em um só lugar.
           </Text>
         </div>

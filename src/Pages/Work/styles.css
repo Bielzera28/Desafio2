@@ -1,0 +1,22 @@
+.work-container {
+    padding: 65px 510px 110px;
+}
+
+.work-container .work-container__heading {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding-bottom: 85px;
+}
+
+.work-container .work-container__icons {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 93vh;
+    text-align: center;
+}
+
+.work-container__icons .work-icons :not(:first-child) {
+    padding-top: 15px;
+}

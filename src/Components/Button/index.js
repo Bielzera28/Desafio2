@@ -8,7 +8,7 @@ function Button({
   backgroundColor,
   borderRadius,
   padding,
-  href,
+  href
 }) {
   return (
       <a className="link" href={href} style={{color, backgroundColor, borderRadius}}>

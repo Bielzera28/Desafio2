@@ -1,0 +1,36 @@
+.contate-container {
+    background-image: url(./images/background-contate.png);
+    padding-bottom: 112px;
+    
+}
+
+.contate-container .contate-container__top {
+    display: flex;
+    text-align: center;
+    align-items: center;
+    flex-direction: column;
+    padding: 50px;
+}
+
+.contate-container .contate-container__top > :not(:first-child) {
+    padding: 15px;
+}
+
+.contate-container .contate-container__bottom {
+    display: flex;
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+
+}
+
+.contate-text {
+    padding-bottom: 8px;
+    padding-right: 110px;
+    margin-left: 45px;
+    border-bottom: solid 1px #FFFFFF
+}
+
+.contate-container .contate-container__bottom > :not(:first-child) {
+    margin-left: 70px;
+}

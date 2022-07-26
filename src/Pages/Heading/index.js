@@ -9,16 +9,16 @@ function Heading() {
       <img alt="Logo Rachi" src={Logo} />
 
       <div className="heading-container__left">
-        <Button href="/" fontSize={18} fontWeight={500} color="#6E7275">
+        <Button href="#Funcionalidades" fontSize={18} fontWeight={500} color="#6E7275">
           Funcionalidades
         </Button>
-        <Button href="/" fontSize={18} fontWeight={500} color="#6E7275">
+        <Button href="#App" fontSize={18} fontWeight={500} color="#6E7275">
           App
         </Button>
-        <Button href="/" fontSize={18} fontWeight={500} color="#6E7275">
+        <Button href="#Planos" fontSize={18} fontWeight={500} color="#6E7275">
           Planos
         </Button>
-        <Button href="/" fontSize={18} fontWeight={500} color="#6E7275">
+        <Button href="#Contato" fontSize={18} fontWeight={500} color="#6E7275">
           Contato
         </Button>
       </div>
