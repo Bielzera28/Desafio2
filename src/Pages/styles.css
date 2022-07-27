@@ -4,5 +4,9 @@
     flex-direction: column;
     background-color: #FFFFFF;
     min-height: 100vh;
+    
+}
+
+html {
     scroll-behavior: smooth;
 }
