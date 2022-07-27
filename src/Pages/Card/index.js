@@ -25,7 +25,15 @@ function Card() {
           <br /> lacinia mi quis euismod ultrices.
         </Text>
         <div className="card-sign">
-          <Button href="/" fontSize={20} fontWeight={600} color="#FFFFFF" backgroundColor="#0f9afe" borderRadius={50} padding="8px 100px">
+          <Button
+            href="https://bielzera28.github.io/Desafio2"
+            fontSize={20}
+            fontWeight={600}
+            color="#FFFFFF"
+            backgroundColor="#0f9afe"
+            borderRadius={50}
+            padding="8px 100px"
+          >
             Assinar
           </Button>
         </div>
@@ -59,7 +67,15 @@ function Card() {
           <br /> lacinia mi quis euismod ultrices.
         </Text>
         <div className="card-sign">
-          <Button href="/" fontSize={20} fontWeight={600} color="#FFFFFF" backgroundColor="#0f9afe" borderRadius={50} padding="6px 100px">
+          <Button
+            href="https://bielzera28.github.io/Desafio2"
+            fontSize={20}
+            fontWeight={600}
+            color="#FFFFFF"
+            backgroundColor="#0f9afe"
+            borderRadius={50}
+            padding="6px 100px"
+          >
             Assinar
           </Button>
         </div>
@@ -84,7 +100,15 @@ function Card() {
           <br /> lacinia mi quis euismod ultrices.
         </Text>
         <div className="card-sign">
-          <Button href="/" fontSize={20} fontWeight={600} color="#FFFFFF" backgroundColor="#0f9afe" borderRadius={50} padding="8px 100px">
+          <Button
+            href="https://bielzera28.github.io/Desafio2"
+            fontSize={20}
+            fontWeight={600}
+            color="#FFFFFF"
+            backgroundColor="#0f9afe"
+            borderRadius={50}
+            padding="8px 100px"
+          >
             Assinar
           </Button>
         </div>

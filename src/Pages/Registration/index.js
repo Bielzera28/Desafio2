@@ -24,7 +24,7 @@ function Registration() {
           color="#FFFFFF"
           borderRadius={50}
           padding="16px 36px"
-          href="/"
+          href="https://bielzera28.github.io/Desafio2"
         >
           Cadastrar-se
         </Button>
