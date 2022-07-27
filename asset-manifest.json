@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/Desafio2/static/css/main.91aa3136.css",
+    "main.js": "/Desafio2/static/js/main.637cd6c9.js",
+    "static/js/787.e3344f85.chunk.js": "/Desafio2/static/js/787.e3344f85.chunk.js",
+    "static/media/background-contate.png": "/Desafio2/static/media/background-contate.c08a3c50c920de5ee735.png",
+    "static/media/new-notifications.png": "/Desafio2/static/media/new-notifications.807c84cb19509709df7b.png",
+    "static/media/registration-image.png": "/Desafio2/static/media/registration-image.5ccc05e4a0973568dc9b.png",
+    "index.html": "/Desafio2/index.html",
+    "main.91aa3136.css.map": "/Desafio2/static/css/main.91aa3136.css.map",
+    "main.637cd6c9.js.map": "/Desafio2/static/js/main.637cd6c9.js.map",
+    "787.e3344f85.chunk.js.map": "/Desafio2/static/js/787.e3344f85.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.91aa3136.css",
+    "static/js/main.637cd6c9.js"
+  ]
+}
